@@ -1,0 +1,61 @@
+
+
+    <
+
+    <section id="testimonial">
+        <div class="container">
+            <div class="center fadeInDown">
+                <h2>Our Team</h2>
+               
+            </div>
+            <div class="testimonial-slider owl-carousel">
+                <div class="single-slide">
+                    <div class="slide-img">
+                        <img src="images/1.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <img src="images/review.png" alt="">
+                        <p>Shimoga's well known personality & versatile writer, enterprise manager dealed with various portfolios of different co-operative banks and different state level organizations which involved higher management skills. We are really fortunate to have him as our CEO.
+
+.</p>
+
+                        <h4>- M N SundarRaj</h4>
+						<p>CEO</p>
+                    </div>
+                </div>
+                <div class="single-slide">
+                    <div class="slide-img">
+                        <img src="images/2.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <img src="images/review.png" alt="">
+                        <p>Expert in all Legal activities and Account management, served in various government institutions in different positions all over India, acts as a Main pillar to this firm which adds to our value and takes us to a different level through his amazing thoughts and different social activities
+
+</p>
+                        <h4>- Vijayabhaskar T C</h4>
+						<p>CFO/Legal Advisor</p>
+                    </div>
+                </div>
+                <div class="single-slide">
+                    <div class="slide-img">
+                        <img src="images/20.png" alt="">
+                    </div>
+                    <div class="content">
+                        <img src="images/review.png" alt="">
+                        <p>Filled with qualities of good future vision,social resonsbility and decision making skills,who is self enthusiast acts  as a good support in our managerial team with his calculated guideance and support</p>
+
+.</p><p>Truely a good asset to the company</P>
+                        <h4>- Vishwas N</h4>
+						<p>Independent Director/HR</p>
+                    </div>
+                </div>
+                
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    
+        <!--/.container-->
+    </section>
